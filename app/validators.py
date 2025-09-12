@@ -1,0 +1,2 @@
+def LedgerRow(raw):
+    pass
