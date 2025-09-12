@@ -1,0 +1,7 @@
+txn_id,txn_date,dept_code,gl_code,amount,currency,description
+10001,2025-08-01,ENG,5100,12500.00,USD,CAD models license
+10002,2025-08-02,FIN,6100,-250.35,USD,Bank fee
+10003,2025-08-03,ENG,5100,825.00,USD,Workbench parts (updated cost)
+10004,2025-08-04,HR,7000,1500.00,USD,Employee training seminar
+10005,2025-08-05,ENG,5100,450.75,USD,Prototype screws
+10006,2025-08-06,OPS,5200,9999.99,USD,Subassembly materials
